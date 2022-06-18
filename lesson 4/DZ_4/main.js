@@ -1,18 +1,4 @@
-//let button = document.getElementById('button')
-//let input = document.getElementById('input')
-//
-//button.onclick = () => {
-//    let tag = document.createElement('div');
-//    let deletebutton = document.createElement('button')
-//    deletebutton.innerText = 'delete';
-//   deletebutton.onclick = () => {
-//        tag.remove()
-//   }
-//    tag.setAttribute('class', 'block')
-//    tag.innerText = input.value
-//    tag.append(deletebutton)
-//    document.body.append(tag);
-//}
+
 
 const counter = function () {
     const btns = document.querySelectorAll('.counter__btn');
